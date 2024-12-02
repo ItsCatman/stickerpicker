@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "test_stickers.json"
+  ],
+  "homeserver_url": "https://matrix-insight2.rilink.io"
+}
